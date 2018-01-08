@@ -1,0 +1,47 @@
+@charset "utf-8";
+/*
+* @Author: zhangyl
+* @Date:   2018-01-08 15:23:25
+* @Last Modified by:   zhangyl
+* @Last Modified time: 2018-01-08 15:24:41
+*/
+html, body {
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  color: white;
+}
+
+header {
+  height: 10%;
+  border-bottom: 1px solid gray;
+  box-sizing: border-box;
+  background: #409EFF;
+}
+
+section {
+  height: 70%;
+  box-sizing: border-box;
+}
+
+.left-menu {
+  width: 10%;
+  height: 100%;
+  background: #67C23A;
+  border-right: 1px solid gray;
+  box-sizing: border-box;
+  float: left;
+}
+.right-content {
+  width: 90%;
+  height: 100%;
+  float: left;
+  background: #E6A23C;
+}
+
+footer {
+  height: 20%;
+  border-top: 1px solid gray;
+  box-sizing: border-box;
+  background: #F56C6C;
+}
