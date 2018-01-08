@@ -8,4 +8,4 @@ Demo演示：[Demo-Online](https://zhangyuanliang.github.io/h5-page-layout/index
 > 随浏览器大小自动缩放，不会出现可恶的滚动条
 
 #### 展示效果：
-![Image text](https://github.com/zhangyuanliang/h5-page-layout/blob/master/img/cut.png)
+![Image text](https://github.com/zhangyuanliang/h5-page-layout/blob/master/img/cut.gif)
